@@ -1,9 +1,6 @@
 [submodule "external/esp8266-cmake"]
 	path = external/esp8266-cmake
 	url = https://github.com/rpoisel/esp8266-cmake.git
-[submodule "external/Arduino"]
-	path = external/Arduino
-	url = https://github.com/esp8266/Arduino.git
 [submodule "external/pubsubclient"]
 	path = external/pubsubclient
 	url = https://github.com/knolleary/pubsubclient.git
