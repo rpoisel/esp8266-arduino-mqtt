@@ -13,5 +13,4 @@ target_include_directories(user_code PUBLIC
 
 target_link_libraries(user_code PUBLIC
     pubsubclient
-    arduino
 )
